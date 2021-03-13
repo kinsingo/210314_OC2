@@ -1,0 +1,7 @@
+﻿            Pos_BoxLeftTop[0] = 326;
+            Pos_BoxLeftTop[1] = 1062;
+
+            Pos_BoxRightBottom[0] = 902;
+            Pos_BoxRightBottom[1] = 1638;
+            string fullHight = "2700";
+            string fullWidth = "4CC"; // 1228 -> hex 값;
